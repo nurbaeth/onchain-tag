@@ -21,7 +21,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
 - ✅ Random spawn positions (based on `block.timestamp` and `msg.sender`)
 - ✅ Grid movement with bounds checking 
 - ✅ Tagging system (auto handover of "It" status)
-- ✅ Public state for all players
+- ✅ Public state for all players 
 
 ---
 
