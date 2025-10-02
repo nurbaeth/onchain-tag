@@ -4,7 +4,7 @@
 All player actions — joining, moving, and tagging — are handled directly on the Ethereum blockchain. No backend. No off-chain logic. Pure on-chain fun.    
        
 ---    
-
+ 
 ## 🎮 Gameplay 
    
 - The game takes place on a **10x10 grid**.   
