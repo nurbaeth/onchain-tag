@@ -13,7 +13,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
 - The "It" can move and **tag** another player by landing on the same grid cell.
 - Once tagged, the other player becomes "It", and the cycle continues.    
    
----
+--- 
 
 ## 📦 Features 
   
