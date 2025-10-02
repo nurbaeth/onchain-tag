@@ -17,7 +17,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
  
 ## 📦 Features 
    
-- ✅ 100% on-chain logic   
+- ✅ 100% on-chain logic    
 - ✅ Random spawn positions (based on `block.timestamp` and `msg.sender`) 
 - ✅ Grid movement with bounds checking  
 - ✅ Tagging system (auto handover of "It" status) 
