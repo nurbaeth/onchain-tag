@@ -3,7 +3,7 @@
 **Onchain Tag** is a decentralized version of the classic game of tag (догонялки), fully written in Solidity.       
 All player actions — joining, moving, and tagging — are handled directly on the Ethereum blockchain. No backend. No off-chain logic. Pure on-chain fun.      
          
----    
+---     
   
 ## 🎮 Gameplay  
     
