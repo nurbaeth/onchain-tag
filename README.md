@@ -14,7 +14,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
 - Once tagged, the other player becomes "It", and the cycle continues.     
     
 ---  
- 
+  
 ## 📦 Features 
     
 - ✅ 100% on-chain logic      
