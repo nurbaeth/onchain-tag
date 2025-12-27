@@ -6,7 +6,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
 ---      
      
 ## 🎮 Gameplay     
-      
+       
 - The game takes place on a **10x10 grid**.       
 - Players join the game and are randomly placed on the grid.         
 - One player is automatically assigned as **"It"** (the tagger).     
