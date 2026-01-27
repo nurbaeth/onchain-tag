@@ -10,7 +10,7 @@ All player actions — joining, moving, and tagging — are handled directly on 
 - The game takes place on a **10x10 grid**.         
 - Players join the game and are randomly placed on the grid.          
 - One player is automatically assigned as **"It"** (the tagger).       
-- The "It" can move and **tag** another player by landing on the same grid cell.  
+- The "It" can move and **tag** another player by landing on the same grid cell.   
 - Once tagged, the other player becomes "It", and the cycle continues.      
      
 ---    
